@@ -32,6 +32,15 @@ Data pipeline + interactive map of one-bedroom rent prices across Canadian citie
 
 ---
 
+## 📚 Guides & notes
+
+### 🩹 [Self-Healing Locators](https://github.com/VadimToptunov/self-healing-locators)
+A practical guide to making UI tests survive UI changes — locator strategies,
+trade-offs, and how self-healing is wired into a real framework (the ideas
+behind Mobiscout).
+
+---
+
 ## 🛠️ Tech I work with
 
 **Languages:** Python · Kotlin · Swift · Java · JavaScript
@@ -43,7 +52,10 @@ Data pipeline + interactive map of one-bedroom rent prices across Canadian citie
 
 ## 📫 Connect
 
-- ✉️ vtoptunov88@gmail.com
-- 💼 LinkedIn: <!-- TODO: add your LinkedIn URL here -->
+[![Email](https://img.shields.io/badge/Email-vtoptunov88@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:vtoptunov88@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-VadimToptunov-181717?logo=github&logoColor=white)](https://github.com/VadimToptunov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-add%20your%20URL-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+
+<!-- TODO: replace the LinkedIn URL above with your real profile. Add Medium/YouTube badges here if you start publishing. -->
 
 ![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimToptunov&show_icons=true&hide_border=true&theme=dark)
