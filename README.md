@@ -54,8 +54,8 @@ behind Mobiscout).
 
 [![Email](https://img.shields.io/badge/Email-vtoptunov88@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:vtoptunov88@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-VadimToptunov-181717?logo=github&logoColor=white)](https://github.com/VadimToptunov)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-add%20your%20URL-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vadim%20Toptunov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-toptunov/)
 
-<!-- TODO: replace the LinkedIn URL above with your real profile. Add Medium/YouTube badges here if you start publishing. -->
+<!-- Add Medium/YouTube badges here if you start publishing. -->
 
 ![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimToptunov&show_icons=true&hide_border=true&theme=dark)
